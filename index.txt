@@ -5,3 +5,5 @@ line for second commit
 line for third commit.
 
 line for fourth commit.
+
+line for final commit.
